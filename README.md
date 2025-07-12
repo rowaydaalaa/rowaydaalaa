@@ -32,7 +32,7 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
   &nbsp;&nbsp;
   <!-- SQL -->
-  <img src="[https://skillicons.dev/icons?i=mysql](https://images.app.goo.gl/rWEgxBXNTS8zX7MH6)" height="40" alt="SQL" />
+  <img src="https://img.freepik.com/premium-vector/sql-server-icon-simple-thin-outline_1223784-18074.jpg" height="40" alt="SQL" />
   &nbsp;&nbsp;
   <!-- Excel -->
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="28" />
@@ -59,7 +59,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:rowidaalaa1L@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:rowidaalaa1@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
   </a>
 </div>
