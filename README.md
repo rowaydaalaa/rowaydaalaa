@@ -32,7 +32,7 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
   &nbsp;&nbsp;
   <!-- SQL -->
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="SQL" />
+  <img src="[https://skillicons.dev/icons?i=mysql](https://images.app.goo.gl/rWEgxBXNTS8zX7MH6)" height="40" alt="SQL" />
   &nbsp;&nbsp;
   <!-- Excel -->
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="28" />
